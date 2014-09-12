@@ -3,8 +3,8 @@ title: Brian Peck
 description: The personal website of Brian Peck
 keywords: personal, academic
 locale: en_US
-#url: http://brian-peck.com
-url:              http://localhost:4001
+url: http://brian-peck.com
+#url: http://localhost:4001
 
 permalink:   /:categories/:title/
 markdown:    kramdown
