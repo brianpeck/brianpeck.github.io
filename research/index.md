@@ -3,7 +3,7 @@ layout: page
 title: Research
 tags: [research]
 modified: 2014-08-12
-comments: true
+comments: false
 ---
 
 Research interests here.

@@ -3,8 +3,10 @@ layout: page
 title: Resume
 tags: [resume]
 modified: 2014-08-12
-comments: true
+comments: false
 ---
+
+A PDF version is available [here][resumepdf].
 
 ### Education
 
@@ -68,3 +70,4 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
 * **Languages**: `Java` `C` `R` 
 * **Tools**: `GNU/Linux` `LaTeX` `MadWiFi`
 
+[resumepdf]: http://www.ece.iastate.edu/~bpeck/resume/bpeck.pdf
