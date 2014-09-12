@@ -32,7 +32,7 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
 * **Graduate Research Assistant**, *Department of Electrical and Computer Engineering*, Iowa State University (2010 -- Present)
     - Conduct basic research in wireless networking.  Developed Power Save Mode with Adaptive Wakeup (PSM-AW) to increase battery life for wireless mobile devices, including a complete implementation via custom device drivers.
 
-* **Graduate Research Assistant**, *Security and Software Engineering Research Center (S2ERC)*, Iowa State University (2014 -- Present)
+* **Graduate Research Assistant**, *Security and Software Engineering Research Center (S$^2$ERC)*, Iowa State University (2014 -- Present)
     - Conduct basic research in cloud intrusion detection, including fraud detection for a commercial client.
 
 * **Graduate Research Assistant**, *Virtual Reality Applications Center*, Iowa State University (2012 -- 2014)
