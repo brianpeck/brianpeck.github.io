@@ -1,7 +1,55 @@
 name: Brian Peck
-description: ""
-url: http://brian-peck.com
+title: Brian Peck
+description: The personal website of Brian Peck
+keywords: personal, academic
+locale: en_US
+#url: http://brian-peck.com
+url:              http://localhost:4001
 
-markdown: kramdown
-permalink: pretty
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Brian Peck
+  avatar: bpeck.jpg
+  bio: "Ph.D. Candidate at ISU."
+  email: bpeck@iastate.edu
+  disqus-shortname: 
+  twitter: bpeck614
+  facebook: bpeck
+  google:
+    plus: BrianPeck
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: brianpeck
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: brianpeck614
+  instagram: bpeck614
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
