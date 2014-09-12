@@ -5,6 +5,7 @@ keywords: personal, academic
 locale: en_US
 url: http://brian-peck.com
 #url: http://localhost:4001
+#url: http://www.ece.iastate.edu/~bpeck
 
 permalink:   /:categories/:title/
 markdown:    kramdown
