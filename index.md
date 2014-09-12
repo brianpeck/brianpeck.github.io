@@ -18,4 +18,4 @@ This website contains descriptions of my current [research][research], my [resum
 [research]: /research/
 [isuwww]: http://www.iastate.edu/
 [resume]: /resume/
-[blog]: /blog/
+[blog]: /posts/
