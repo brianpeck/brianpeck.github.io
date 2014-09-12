@@ -18,7 +18,7 @@ As a Ph.D student at Iowa State University, I have had the opportunity to work o
 
 > ### Cloud Security
 
-Most recently, my research has focused on cloud security as part of the Security and Software Engineering Research Center ([S$^2$ERC][s2erc]) at Iowa State University.
+Most recently, my research has focused on cloud security as part of the Security and Software Engineering Research Center ([S<sup>2</sup>ERC][s2erc]) at Iowa State University.
 Specifically, I am focusing on intrusion and fraud detection for web applications hosted in the cloud.
 
 > ### Homunculus Camera
@@ -29,7 +29,7 @@ Specifically, I am focusing on intrusion and fraud detection for web application
 #### HomCam hardware and software
 
 The Homunculus Camera (HomCam) was developed as part of an ongoing research project with the Virtual Reality Application Center ([VRAC][vrac]) at Iowa State University.
-The HomCam is a head mounted device which allows the live transfer of 360$^\circ$ video to a remote viewer.
+The HomCam is a head mounted device which allows the live transfer of 360&deg; video to a remote viewer.
 This allows the remote viewer to see what the HomCam wearer is seeing, as if they were inside the head of the wearer, hence the name [Homunculus][homunculuswiki] Camera.
 
 The HomCam itself uses 4 cameras.
@@ -40,7 +40,7 @@ The client is a graphical application which allows the viewing of all four strea
 #### User Study
 
 Given the HomCam system, we then designed and conducted a user study to determine how useful it is.
-Specifically, we studied the ability of participants to build spatial awareness of a foreign environment by having them identify targets and draw maps after viewing footage from the HomCam, both with a 360$^\circ$ and a 180$^\circ$ view.
+Specifically, we studied the ability of participants to build spatial awareness of a foreign environment by having them identify targets and draw maps after viewing footage from the HomCam, both with a 360&deg; and a 180&deg; view.
 The results of the study are still being analyzed and will be presented in a future publication.
 
 ##### Publications
