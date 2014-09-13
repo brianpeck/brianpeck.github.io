@@ -6,7 +6,7 @@ modified: 2014-08-12
 comments: false
 ---
 
-A PDF version is available [here][resumepdf].
+A PDF version is available [here][resumepdf]{:target="_blank"}.
 
 ### Education
 
@@ -36,12 +36,12 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
     - Conduct basic research in cloud intrusion detection, including fraud detection for a commercial client.
 
 * **Graduate Research Assistant**, *Virtual Reality Applications Center*, Iowa State University (2012 -- 2014)
-    - Developed and built the Homunculus Camera (HomCam) to enable remote situational awareness.  Designed, conducted, and analyzed user study to evaluate effectiveness of HomCam in allowing participants to build mental maps of a remote environment.
+    - Developed and built the Homunculus Camera (HomCam) to enable remote situational awareness.  Designed, conducted, and analyzed a user study to evaluate effectiveness of HomCam in allowing participants to build mental maps of a remote environment.
 
 #### Professional
 
 * **Technical Consultant**, *Thinix*, Ames, IA (Winter 2013)
-    - Provided insight and development expertise toward future Wi-Fi related product.
+    - Provided insight and development expertise toward future Wi-Fi-related product.
 
 * **SDET Intern**, *Microsoft Corporation*, Redmond, WA (Summer 2009)
     - Designed and developed user credibility algorithm for Windows Localization Quality Game.
@@ -55,12 +55,12 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
 #### Teaching
 
 * **Lecturer**, *Iowa State University*, Ames, IA (Jan -- July 2014)
-: Responsibilities included preparing and delivering lectures, writing problem sets and exams, coordinating laboratories and teaching assistants, and mentoring students.
+: Prepared and delivered lectures, wrote problem sets and exams, coordinated laboratories and teaching assistants, and mentored students.
     - *CprE 308:* Operating Systems (Spring 2014)
     - *CprE 288:* Embedded Systems (Summer 2014)
 
 * **Graduate Teaching Assistant**, *Iowa State University*, Ames, IA (2010 -- 2012)
-: Responsibilities included leading laboratory exercises, grading projects and exams, designing homework problem sets and solutions, mentoring students, and guest lectures.
+: Lead laboratory exercises, graded projects and exams, designed homework problem sets and solutions, mentored students, and gave occasional guest lectures. 
     - *CprE 308:* Operating Systems (Fall 2010)
     - *CprE 426:* Parallel Programming (Spring 2011)
     - *CprE 489:* Wireless Networking (Fall 2011)
@@ -69,5 +69,12 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
 ### Technical Skills
 * **Languages**: `Java` `C` `R` 
 * **Tools**: `GNU/Linux` `LaTeX` `MadWiFi`
+
+### Professional Activities
+
+* **Memberships**: Eta Kappa Nu,  IEEE
+* **Reviewer**: IEEE Transaction on Vehicular Technology
+* **Mentoring**: Engineering Mentors - graduate/undergraduate intercultural mentoring
+* **Teaching**: Graduate Teaching Excellence Award
 
 [resumepdf]: http://www.ece.iastate.edu/~bpeck/resume/bpeck.pdf

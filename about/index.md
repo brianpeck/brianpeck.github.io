@@ -6,9 +6,9 @@ modified: 2014-08-12
 comments: false
 ---
 
-This website is generated from plain-text Markdown files with [Jekyll], and is hosted with [GitHub] pages.
-I use the [Minimal Mistakes][mmtheme] theme.
-The source for the entire site can be found [here][source].
+This website is generated from plain-text Markdown files with [Jekyll]{:target="_blank"}, and is hosted with [GitHub]{:target="_blank"} pages.
+I use the [Minimal Mistakes][mmtheme]{:target="_blank"} theme.
+The source for the entire site can be found [here][source]{:target="_blank"}.
 
 
 [Jekyll]: http://jekyllrb.com/
