@@ -46,9 +46,9 @@ The results of the study are still being analyzed and will be presented in a fut
 ##### Publications
 * In progress.
 
-> ### Power Save Mode with Adaptive Wakeup (PSM)
+> ### Power Save Mode with Adaptive Wakeup (PSM-AW)
 
-In an effort to reduce energy usage in wireless networks, most mobile devices use the 02.11 Power Save Mode (PSM) to put the wireless network interface card (NIC) to sleep when no data is being transferred.
+In an effort to reduce energy usage in wireless networks, most mobile devices use the 802.11 Power Save Mode (PSM) to put the wireless network interface card (NIC) to sleep when no data is being transferred.
 However, this mode impacts packet delay, as devices cannot send or receive data when the NIC is asleep.
 To this end, we designed Power Save Mode with Adaptive Wakeup (PSM-AW), which allows a mobile device to sleep for as long as possible, before adaptively waking up based on the current connection.
 In this manner, a device can sleep as long as possible, without the risk for long delays.
