@@ -73,8 +73,8 @@ Balancing Multiple Interfaces”. *INFOCOM, 2012 Proceedings IEEE*, pp. 1458–1
 ### Professional Activities
 
 * **Memberships**: Eta Kappa Nu,  IEEE
-* **Reviewer**: IEEE Transaction on Vehicular Technology
-* **Mentoring**: Engineering Mentors - graduate/undergraduate intercultural mentoring
+* **Reviewer**: IEEE Transactions on Vehicular Technology
+* **Mentoring**: Engineering Mentors - Graduate/Undergraduate Intercultural Mentoring
 * **Teaching**: Graduate Teaching Excellence Award
 
 [resumepdf]: http://www.ece.iastate.edu/~bpeck/resume/bpeck.pdf
