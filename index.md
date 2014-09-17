@@ -10,7 +10,7 @@ image:
 
 # Hi, I'm Brian Peck.
 
-I am currently a Ph.D. candidate at [Iowa State University][isuwww]{:target="_blank"}
+I am currently a Ph.D. candidate at [Iowa State University][isuwww]{:target="_blank"}.
 I [research][research] wireless networks, remote situational awareness, and cloud security.
 This website contains descriptions of my current [research][research], my [resume][resume], and any rare musings I might have on my [blog][blog].
 
